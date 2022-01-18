@@ -1,0 +1,24 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "keyVaultName": {
+            "value": "databrickkeyvaultnad3220"
+        },
+        "tenantId": {
+            "value": "0aac878c-59ea-4dcd-82e1-c0bbd579a152"
+        },
+        "objectId": {
+            "value": "4948d80d-a7e6-4637-9567-85eff46cab73"
+        },
+        "objectId_AppID": {
+            "value": "06d6f297-685e-45c0-9887-2ba7b250f60e"
+        }, 
+        "secretName": {
+            "value": "secretvalue"
+        },        
+        "enabledForTemplateDeployment": {
+            "value": true
+        }
+    }
+}
