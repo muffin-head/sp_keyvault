@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "keyVaultName": {
-            "value": "databrickkeyvaultnad3220"
+            "value": "databrickkeyvaultnad250998"
         },
         "tenantId": {
             "value": "0aac878c-59ea-4dcd-82e1-c0bbd579a152"
